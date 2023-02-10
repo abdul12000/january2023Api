@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="277b8ad4-2700-4704-86e6-28c0bdf7371e" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test Results - TestRunner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stepDefs/BaseSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stepDefs/JsonPlaceHolderStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/RequestBodyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/feature_files/JsonPlaceHolder.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/payloads/commentsPayload.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/payloads/postPayload.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/restAssuredDemo/SocialNetworkingPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runnerPackage/TestRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LFBP93gsoIUNJjBOVb5XxFKm5D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="runnerPackage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="SocialNetworkingPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="january2023Api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssuredDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssuredDemo" />
+      <option name="MAIN_CLASS_NAME" value="restAssuredDemo.SocialNetworkingPost" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocialNetworkingPost.getSpecificSocialNetworkingPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="january2023Api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssuredDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssuredDemo" />
+      <option name="MAIN_CLASS_NAME" value="restAssuredDemo.SocialNetworkingPost" />
+      <option name="METHOD_NAME" value="getSpecificSocialNetworkingPost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="january2023Api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runnerPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runnerPackage" />
+      <option name="MAIN_CLASS_NAME" value="runnerPackage.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="JUnit.SocialNetworkingPost" />
+        <item itemvalue="JUnit.SocialNetworkingPost.getSpecificSocialNetworkingPost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="277b8ad4-2700-4704-86e6-28c0bdf7371e" name="Changes" comment="" />
+      <created>1675456938166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675456938166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/stepDefs/BaseSteps.java</url>
+          <line>17</line>
+          <properties field="ServiceURL" class="stepDefs.BaseSteps" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
